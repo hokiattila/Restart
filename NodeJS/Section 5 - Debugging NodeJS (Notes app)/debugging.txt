@@ -1,0 +1,8 @@
+1. logging out results / variables
+
+2. node debugger -> see at section 4 code
+   node inspect <sourcefile> <params>
+   node --inspect-brk <sourcefile> <params>
+   
+   After running the command open the browser and type chrome://inspect
+   Rerun the debugger with command "restart" in the console
